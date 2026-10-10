@@ -1,18 +1,25 @@
 # Hi, I'm Azlan Wasi 👋
 
-### Python Learner | Exploring AI & Machine Learning
+### Python Developer in Progress | Exploring AI & Machine Learning
 
-I'm strengthening my Python and software engineering fundamentals while building practical projects and exploring AI applications.
+I'm strengthening my programming fundamentals and building practical projects while exploring how AI can solve real-world problems.
 
-- 🐍 Learning Python, problem-solving, and data structures
-- 🤖 Exploring AI/ML and practical AI applications
-- 🛠️ Building and documenting software projects
+- 🐍 Learning Python and problem-solving
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🛠️ Building practical software projects
+- 🌱 Improving my coding skills through consistent practice
 
-### Projects
-- [Web Development Practice](https://github.com/WasiAzlan/Web-Development) — a multi-page HTML website for practicing page structure and navigation.
-- [Wasi-Labs](https://github.com/WasiAzlan/Wasi-Labs) — an AI Studio-generated React/TypeScript application; feature this after its security review is complete.
+### 🎯 Current Focus
+- Python fundamentals and data structures
+- Data analysis and machine learning
+- Automation and APIs
+- Writing clean, understandable code
 
-### Current Focus
-Python fundamentals → data analysis → machine learning.
+### 🧰 Technologies
+- **Learning:** Python
+- **Exploring:** AI/ML, automation, software development
 
-**Adapt the niche, leave the legacy.**
+### 🚀 My Goal
+Turn what I learn into useful projects, one step at a time.
+
+
