@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Azlan Wasi 👋
 
-<!--
-**WasiAzlan/WasiAzlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer in Progress | Exploring AI & Machine Learning
 
-Here are some ideas to get you started:
+I'm strengthening my programming fundamentals and building practical projects while exploring how AI can solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Learning Python and problem-solving
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🛠️ Building practical software projects
+- 🌱 Improving my coding skills through consistent practice
+
+### 🎯 Current Focus
+- Python fundamentals and data structures
+- Data analysis and machine learning
+- Automation and APIs
+- Writing clean, understandable code
+
+### 🧰 Technologies
+- **Learning:** Python
+- **Exploring:** AI/ML, automation, software development
+
+### 🚀 My Goal
+Turn what I learn into useful projects, one step at a time.
+
+
